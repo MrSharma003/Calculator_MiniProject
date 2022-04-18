@@ -1,0 +1,4 @@
+2022-04-18 15:56:25.085 [main] INFO  calculator.Calculator - Factorial - Input :56.0 Output :7.109985878048635E74
+2022-04-18 15:56:43.732 [main] INFO  calculator.Calculator - [NATURAL LOG] - 5.0
+2022-04-18 15:56:43.733 [main] INFO  calculator.Calculator - Natural Log - Input :5.0 Output :1.6094379124341003
+2022-04-18 15:57:05.025 [main] INFO  calculator.Calculator - Square root - Input : 36.0 Output :6.0
